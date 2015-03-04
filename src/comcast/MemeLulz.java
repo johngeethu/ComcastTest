@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-
 public class MemeLulz extends Meme{
 	private Map<String, String> memesMap = new HashMap<String,String>();
 	private Map<String, Integer> lulzMap = new HashMap<String,Integer>();

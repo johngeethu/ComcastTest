@@ -91,7 +91,7 @@ public static void main(String[] args)  {
 
 	
 	private void EnteringLulzScore(Map<String, String> memeMap,
-			Map<String, Integer> lulzMap, String fileName) {
+		Map<String, Integer> lulzMap, String fileName) {
 
 		MemeLulz memelulz = new MemeLulz();
 		ObjectMapper mapper = new ObjectMapper();
